@@ -2,19 +2,17 @@
 <h3 align="center">A fullstack developpeur</h3>
 <h3 align="center"></h3>
 
-- 🔭 I’m currently working on **CRM developement for assurance**
+- 🔭 I’m currently working on **CRM development for insurance**
 
-- 🌱 I’m currently learning **Je me plonge dans les frameworks React et Vue pour améliorer mes compétences en développement web.**
+- 🌱 I’m currently learning **I am diving into the TypeScript with React and Laravel frameworks to improve my web development skills.**
 
-- 💬 Ask me about **N'hésitez pas à me poser des questions sur React, Vue et GSAP (GreenSock Animation Platform).**
+- 💬 Ask me about **Feel free to ask me any questions about React and Laravel.**
 
-- 📫 How to reach me **Vous pouvez me contacter par email à maximemonnier39@gmail.com**
-
-- ⚡ Fun fact **J'aime faire rire les gens et je pense être drôle !**
+- 📫 How to reach me **You can contact me via email at maximemonnier39@gmail.com.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/maxime monnier" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="maxime monnier" height="30" width="40" /></a>
+<a href="[https://linkedin.com/in/maxime monnier" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg](https://www.linkedin.com/in/maxime-monnier-9aab73241/)" alt="maxime monnier" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
