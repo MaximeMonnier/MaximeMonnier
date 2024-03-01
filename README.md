@@ -12,7 +12,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="[[https://linkedin.com/in/maxime monnier](https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg](https://www.linkedin.com/in/maxime-monnier-9aab73241/))" target="blank"><img align="center" src="[https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg](https://www.linkedin.com/in/maxime-monnier-9aab73241/)](https://media.licdn.com/dms/image/D4D03AQHggud-7CO9ag/profile-displayphoto-shrink_800_800/0/1680177411320?e=1714608000&v=beta&t=kyo6Z861UZggjRTdT4RpMuqck5TIA_jEUeTa2Frowzo)" alt="maxime monnier" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/maxime-monnier-9aab73241/" target="blank"><img align="center" src="https://media.licdn.com/dms/image/D4D03AQHggud-7CO9ag/profile-displayphoto-shrink_400_400/0/1680177411320?e=1714608000&v=beta&t=CtWAJLKH6Xvx_U3rmKqiYsBz4LAsprsDfpCCCVz3d-w" alt="maxime monnier" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
