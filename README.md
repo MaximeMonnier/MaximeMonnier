@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Maxime Monnier</h1>
-<h3 align="center">Full-stack Developer • React / Laravel • TypeScript lover</h3>
+<h3 align="center">Full-stack Developer • React / Laravel •</h3>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/maxime-monnier-9aab73241/" target="_blank">
@@ -46,11 +46,9 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" width="45" height="45"/>
   <img src="https://ih1.redbubble.net/image.438908244.6144/bg,f8f8f8-flat,750x,075,f-pad,750x1000,f8f8f8.u2.jpg" width="45" height="45"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="45" height="45"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" width="45" height="45"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" width="45" height="45"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" width="45" height="45"/>
   <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="45" height="45"/>
-  <img src="https://www.vectorlogo.zone/logos/postman/getpostman-icon.svg" width="45" height="45"/>
   <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" width="45" height="45"/>
 </p>
 
