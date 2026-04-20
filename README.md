@@ -17,8 +17,6 @@
 - 🔭 Currently working on **CRM development for insurance**
 - 🌱 Learning **TypeScript**, **React** & **Laravel** deeper every day
 - 💬 Ask me about **React / Laravel / Web development**
-- 📫 Reach me at **maximemonnier39@gmail.com**
-
 ---
 
 ## 🤝 Connect with me
